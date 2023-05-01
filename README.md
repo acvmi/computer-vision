@@ -1,8 +1,7 @@
 ### Computer-vision
 
-### Vesuvius Challenge - Ink Detection
+#### Vesuvius Challenge - Ink Detection
 In this challenge, the effort is to resurrect an ancient library buried under the ashes of the Vesuvius volcano some 2000 years ago. The library was located in a Roman villa, near Pompeii, and contained thousand of scrolls. They were discovered a few hundred years ago and this has led to the quest to be able to read them using today's technology. 
-
 The scrolls were carbonized and remain unreadable to today, and it will require special techniques such as 3d Xrays scans to read the scrolls by detecting the ink, hence the challenge name 'Vesuvius Ink Detection'.
 
 Objective
